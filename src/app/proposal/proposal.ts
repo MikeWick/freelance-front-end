@@ -11,5 +11,4 @@ export class Proposal {
   ) {}
 }
 
-// 4, 'Abc Company', 'http://portfolio.mikewickert.com', 'Ruby on Rails', 
-150, 120, 15, 'mike@gmail.com'
+// 4, 'Abc Company', 'http://portfolio.mikewickert.com', 'Ruby on Rails', 150, 120, 15, 'mike@gmail.com'
